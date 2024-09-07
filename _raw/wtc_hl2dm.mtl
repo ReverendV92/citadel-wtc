@@ -1,0 +1,74 @@
+# Decompiled with VMF2OBJ v2.0.3 by Dylancyclone
+
+
+newmtl metal/metalhull010b
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/metal/metalhull010b.tga
+map_Kd materials/metal/metalhull010b.tga
+
+
+newmtl metal/metalwall030a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/metal/metalwall030a.tga
+map_Kd materials/metal/metalwall030a.tga
+
+
+newmtl concrete/concretefloor026a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/concrete/concretefloor026a.tga
+map_Kd materials/concrete/concretefloor026a.tga
+
+
+newmtl metal/metalhull002a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/metal/metalhull002a.tga
+map_Kd materials/metal/metalhull002a.tga
+
+
+newmtl tools/toolsnodraw
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/tools/toolsnodraw.tga
+map_Kd materials/tools/toolsnodraw.tga
+
+
+newmtl props/rubberfloor004a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/props/rubberfloor004a.tga
+map_Kd materials/props/rubberfloor004a.tga
+
+
+newmtl metal/metalwall102a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/metal/metalwall102a.tga
+map_Kd materials/metal/metalwall102a.tga
+
+
+newmtl concrete/concretewall046c
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/concrete/concretewall046c.tga
+map_Kd materials/concrete/concretewall046c.tga
+
+
+newmtl concrete/concretewall046d
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Ka materials/concrete/concretewall046d.tga
+map_Kd materials/concrete/concretewall046d.tga
+

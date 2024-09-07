@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+	$basetexture metal/metalwall030a
+	$nofog 1
+	// $surfaceprop metal
+	// $detail detail/metal_detail_01
+	// $detailscale 4.283
+	// $detailblendfactor 0.8
+	// $detailblendmode 0
+}

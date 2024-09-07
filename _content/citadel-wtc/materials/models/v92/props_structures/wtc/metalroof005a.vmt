@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+	$basetexture metal/metalroof005a
+	// $bumpmap metal/metalroof005a_normal
+	$nofog 1
+	// $surfaceprop metal
+	// $envmap env_cubemap
+	// $normalmapalphaenvmapmask 1
+	// $envmapcontrast 1
+	// $envmapsaturation 1
+	// $envmaptint "[ 0.4 0.4 0.4 ]"
+	// %keywords c17industrial
+}

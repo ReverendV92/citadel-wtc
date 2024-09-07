@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+	$basetexture props/rubberfloor004a
+	$nofog 1
+	// $surfaceprop rubber
+}
