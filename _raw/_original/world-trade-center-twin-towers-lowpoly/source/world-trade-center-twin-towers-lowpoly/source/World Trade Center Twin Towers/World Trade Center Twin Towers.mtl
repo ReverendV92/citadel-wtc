@@ -1,0 +1,1149 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl wtctext2
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.713725 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wtctext2.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl site04
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.560784 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/site04.jpg
+
+newmtl rooftop
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.494118 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/rooftop.png
+
+newmtl Lb1
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.956863 0.956863
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/Lb1.jpg
+
+newmtl colora
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.670588 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/colora.png
+
+newmtl textwt2
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/textwt2.png
+
+newmtl wdt3
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.670588 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wdt3.png
+
+newmtl blctrid
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/blctrid.jpg
+
+newmtl Lisanne_Boot_Sole_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.121569 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/Lisanne_Boot_Sole_1.jpg
+
+newmtl wtcjrrj
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.184314 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wtcjrrj.jpg
+
+newmtl lb5
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lb5.jpg
+
+newmtl ant3
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.250980 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ant3.png
+
+newmtl ant45
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.866667 0.862745
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ant45.png
+
+newmtl rod1
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.615686 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/rod1.png
+
+newmtl anten1
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.427451 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/anten1.png
+
+newmtl egegrg2
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.584314 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/egegrg2.jpg
+
+newmtl chclock
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/chclock.jpg
+
+newmtl mastro
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.658824 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/mastro.jpg
+
+newmtl ntscul
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.521569 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ntscul.jpg
+
+newmtl temglas
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.510000
+map_Kd World Trade Center Twin Towers/temglas.png
+
+newmtl CJ_WOODDOOR2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl wotw2
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2.jpg
+
+newmtl lb6
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.278431 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lb6.bmp
+
+newmtl wotw1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.509804 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw1.jpg
+
+newmtl carpt
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.392157 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/carpt.jpg
+
+newmtl wotw3
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.588235 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw3.jpg
+
+newmtl wotw5
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.705882 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw5.jpg
+
+newmtl wotw4
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.501961 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw4.jpg
+
+newmtl wotw6
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.745098 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw6.jpg
+
+newmtl tpete
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.419608 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/tpete.jpg
+
+newmtl wotw7
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.462745 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw7.jpg
+
+newmtl Lisanne_Skin1
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.207843 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/Lisanne_Skin1.jpg
+
+newmtl ele1
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.698039 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ele1.jpg
+
+newmtl wotw8
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.666667 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw8.jpg
+
+newmtl ele2
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.556863 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ele2.jpg
+
+newmtl flor
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.223529 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/flor.jpg
+
+newmtl wotw9
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.443137 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw9.jpg
+
+newmtl wotw11
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.474510 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw11.jpg
+
+newmtl lb3
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.392157 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lb3.jpg
+
+newmtl wotw14
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.156863 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw14.jpg
+
+newmtl wotw10
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.568627 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw10.jpg
+
+newmtl wotw12
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.372549 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw12.jpg
+
+newmtl wotw13
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.674510 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw13.jpg
+
+newmtl wotw15
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.407843 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw15.jpg
+
+newmtl totw1
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.470588 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/totw1.jpg
+
+newmtl topa
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa.jpg
+
+newmtl marrita
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.329412 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/marrita.png
+
+newmtl M_2001
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.639216 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/M_2001.jpg
+
+newmtl lb7
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.576471 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lb7.jpg
+
+newmtl lampee
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.423529 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lampee.bmp
+
+newmtl wtt1
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.145098 0.196078
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wtt1.png
+
+newmtl lbert
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.713725 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lbert.jpg
+
+newmtl Color_A06
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.639216 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/Color_A06.jpg
+
+newmtl lblamps
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.729412 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/lblamps.jpg
+
+newmtl ksnf
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.474510 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/ksnf.jpg
+
+newmtl wotw2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_1_.jpg
+
+newmtl wotw2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_2_.jpg
+
+newmtl wotw2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_3_.jpg
+
+newmtl wotw2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_4_.jpg
+
+newmtl wotw2_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_5_.jpg
+
+newmtl wotw2_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_6_.jpg
+
+newmtl wotw2_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_7_.jpg
+
+newmtl wotw2_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_8_.jpg
+
+newmtl wotw2_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_9_.jpg
+
+newmtl wotw2_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_10_.jpg
+
+newmtl wotw2_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_11_.jpg
+
+newmtl wotw2_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_12_.jpg
+
+newmtl wotw2_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_13_.jpg
+
+newmtl wotw2_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_14_.jpg
+
+newmtl wotw2_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_15_.jpg
+
+newmtl wotw2_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_16_.jpg
+
+newmtl wotw2_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_17_.jpg
+
+newmtl wotw2_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_18_.jpg
+
+newmtl wotw2_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_19_.jpg
+
+newmtl wotw2_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_20_.jpg
+
+newmtl wotw2_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_21_.jpg
+
+newmtl wotw2_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_22_.jpg
+
+newmtl wotw2_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_23_.jpg
+
+newmtl wotw2_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_24_.jpg
+
+newmtl wotw2_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_25_.jpg
+
+newmtl wotw2_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_26_.jpg
+
+newmtl wotw2_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_27_.jpg
+
+newmtl wotw2_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_28_.jpg
+
+newmtl wotw2_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_29_.jpg
+
+newmtl wotw2_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_30_.jpg
+
+newmtl wotw2_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_31_.jpg
+
+newmtl wotw2_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_32_.jpg
+
+newmtl wotw2_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_33_.jpg
+
+newmtl wotw2_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_34_.jpg
+
+newmtl wotw2_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_35_.jpg
+
+newmtl wotw2_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_36_.jpg
+
+newmtl wotw2_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_37_.jpg
+
+newmtl wotw2_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_38_.jpg
+
+newmtl wotw2_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_39_.jpg
+
+newmtl wotw2_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_40_.jpg
+
+newmtl wotw2_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_41_.jpg
+
+newmtl wotw2_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_42_.jpg
+
+newmtl wotw2_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_43_.jpg
+
+newmtl wotw2_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_44_.jpg
+
+newmtl wotw2_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_45_.jpg
+
+newmtl wotw2_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_46_.jpg
+
+newmtl wotw2_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_47_.jpg
+
+newmtl wotw2_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_48_.jpg
+
+newmtl wotw2_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_49_.jpg
+
+newmtl wotw2_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_50_.jpg
+
+newmtl wotw2_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_51_.jpg
+
+newmtl wotw2_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_52_.jpg
+
+newmtl wotw2_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_53_.jpg
+
+newmtl wotw2_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_54_.jpg
+
+newmtl wotw2_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_55_.jpg
+
+newmtl wotw2_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_56_.jpg
+
+newmtl wotw2_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_57_.jpg
+
+newmtl wotw2_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_58_.jpg
+
+newmtl wotw2_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_59_.jpg
+
+newmtl wotw2_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_60_.jpg
+
+newmtl wotw2_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_61_.jpg
+
+newmtl wotw2_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_62_.jpg
+
+newmtl wotw2_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_63_.jpg
+
+newmtl wotw2_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_64_.jpg
+
+newmtl wotw2_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_65_.jpg
+
+newmtl wotw2_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_66_.jpg
+
+newmtl wotw2_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_67_.jpg
+
+newmtl wotw2_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_68_.jpg
+
+newmtl wotw2_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_69_.jpg
+
+newmtl wotw2_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_70_.jpg
+
+newmtl wotw2_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_71_.jpg
+
+newmtl wotw2_72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_72_.jpg
+
+newmtl wotw2_73_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_73_.jpg
+
+newmtl wotw2_74_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_74_.jpg
+
+newmtl wotw2_75_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_75_.jpg
+
+newmtl wotw2_76_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_76_.jpg
+
+newmtl wotw2_77_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_77_.jpg
+
+newmtl wotw2_78_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_78_.jpg
+
+newmtl wotw2_79_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_79_.jpg
+
+newmtl wotw2_80_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_80_.jpg
+
+newmtl wotw2_81_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_81_.jpg
+
+newmtl wotw2_82_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_82_.jpg
+
+newmtl wotw2_83_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_83_.jpg
+
+newmtl wotw2_84_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_84_.jpg
+
+newmtl wotw2_85_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_85_.jpg
+
+newmtl wotw2_86_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_86_.jpg
+
+newmtl wotw2_87_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_87_.jpg
+
+newmtl wotw2_88_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_88_.jpg
+
+newmtl wotw2_89_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_89_.jpg
+
+newmtl wotw2_90_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_90_.jpg
+
+newmtl wotw2_91_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_91_.jpg
+
+newmtl wotw2_92_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_92_.jpg
+
+newmtl wotw2_93_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_93_.jpg
+
+newmtl wotw2_94_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_94_.jpg
+
+newmtl wotw2_95_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_95_.jpg
+
+newmtl wotw2_96_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_96_.jpg
+
+newmtl wotw2_97_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_97_.jpg
+
+newmtl wotw2_98_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_98_.jpg
+
+newmtl wotw2_99_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_99_.jpg
+
+newmtl wotw2_100_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wotw2_100_.jpg
+
+newmtl wtt44
+Ka 0.000000 0.000000 0.000000
+Kd 0.015686 0.015686 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wtt44.jpg
+
+newmtl cfortres
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.172549 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/cfortres.bmp
+
+newmtl egegrg
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.584314 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/egegrg.jpg
+
+newmtl walls1
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.686275 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/walls1.bmp
+
+newmtl wtcdr
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.325490 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wtcdr.jpg
+
+newmtl wall001
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.470588 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/wall001.bmp
+
+newmtl roof1
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.552941 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/roof1.jpg
+
+newmtl rtyty
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.517647 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/rtyty.jpg
+
+newmtl M_44646
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.501961 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/M_44646.jpg
+
+newmtl M_15ontop
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.588235 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/M_15ontop.jpg
+
+newmtl top01
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.666667 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/top01.jpg
+
+newmtl deck1
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.898039 0.898039
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/deck1.jpg
+
+newmtl topa1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa1_.jpg
+
+newmtl topa2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa2_.jpg
+
+newmtl topa3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa3_.jpg
+
+newmtl topa4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa4_.jpg
+
+newmtl topa5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa5_.jpg
+
+newmtl topa6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa6_.jpg
+
+newmtl topa7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa7_.jpg
+
+newmtl topa8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa8_.jpg
+
+newmtl topa9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa9_.jpg
+
+newmtl topa10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa10_.jpg
+
+newmtl topa11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa11_.jpg
+
+newmtl topa12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa12_.jpg
+
+newmtl topa13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa13_.jpg
+
+newmtl topa14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.447059 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topa14_.jpg
+
+newmtl topwpr
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/topwpr.png
+
+newmtl rhyryh
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/rhyryh.png
+
+newmtl RGRGRG
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.592157 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/RGRGRG.jpg
+
+newmtl rbhrhj
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.074510 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/rbhrhj.jpg
+
+newmtl thnt
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.439216 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/thnt.jpg
+
+newmtl thnt1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.439216 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/thnt1_.jpg
+
+newmtl shut2
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.403922 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/shut2.bmp
+
+newmtl shut3
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.482353 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/shut3.bmp
+
+newmtl shut1
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.290196 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd World Trade Center Twin Towers/shut1.bmp
+

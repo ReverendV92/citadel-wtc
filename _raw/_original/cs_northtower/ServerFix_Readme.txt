@@ -1,0 +1,1 @@
+The custom decals on this map require a dedicated server to also have these files installed.
